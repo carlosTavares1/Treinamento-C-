@@ -9,18 +9,23 @@ namespace AtividadeDoisUsandoSplit
     class Program
     {
         static void Main(string[] args)
-        {   
+        {
+            BuscaPorNome();
+            Console.ReadKey();
+        }
+        /// <summary>
+        /// este método retorna a marca e o ano de acordo com o nome do carro
+        /// </summary>
+        private static void BuscaPorNome()
+        {
             var texto = "nome:argo,marca:fiat,ano:2015;nome:gol,marca:wolkswagen,ano:2017;nome:versa,marca:nissan,ano:2019;nome:hb20,marca:hyundai,ano:2020";
-
             var listaDeInformacoes = texto.Split(';');
-
             Console.WriteLine("Veículos cadastrados: ");
 
             foreach (var item in listaDeInformacoes)
             {
                 Console.WriteLine(item.Split(',')[0]);
             }
-
             Console.WriteLine("Informe o veículo desejado: ");
             var nomeBusca = Console.ReadLine();
 
@@ -33,8 +38,6 @@ namespace AtividadeDoisUsandoSplit
                 if (nomeBusca == nome)
                     Console.WriteLine($"O carro selecionado é da {marca} e de {ano}");
             }
-
-            Console.ReadKey();
         }
     }
 }
