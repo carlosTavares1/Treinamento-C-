@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtividadeDoisUsandoSplit", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade3", "Atividade3\Atividade3.csproj", "{B43EF85D-F1F7-4324-ADB5-AE88C1282D3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoOList", "AprendendoOList\AprendendoOList.csproj", "{55BAF742-26F6-4277-9777-2A3F7360ACE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B43EF85D-F1F7-4324-ADB5-AE88C1282D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B43EF85D-F1F7-4324-ADB5-AE88C1282D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B43EF85D-F1F7-4324-ADB5-AE88C1282D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BAF742-26F6-4277-9777-2A3F7360ACE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BAF742-26F6-4277-9777-2A3F7360ACE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BAF742-26F6-4277-9777-2A3F7360ACE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BAF742-26F6-4277-9777-2A3F7360ACE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
