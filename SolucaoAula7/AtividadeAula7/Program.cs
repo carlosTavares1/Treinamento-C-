@@ -10,18 +10,29 @@ namespace AtividadeAula7
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("                     <_                                                             _>       ");
+            Console.WriteLine("                       <_                                                         _>       ");
+            Console.WriteLine("                         <_                                                     _>       ");
+            Console.WriteLine("                           <_                                                 _>       ");
+            Console.WriteLine("                             <_                                             _>       ");
+            Console.WriteLine("                               <_                                         _>       ");
+            Console.WriteLine("                                 <_                                     _>       ");
+            Console.WriteLine("                                   <_                                 _>       ");
+            Console.WriteLine("                                      <_                            _>       ");
+            Console.WriteLine("                                         +                         +       ");
+            Console.WriteLine("                                          <                       >       ");
             Console.WriteLine("                                           |                     |");
             Console.WriteLine("                                           |                     |");
             Console.WriteLine("                                           |                     |");
+            Console.WriteLine(@"                                           |          \          |");
             Console.WriteLine("                                           |                     |");
+            Console.WriteLine(@"                                           |    \       \        |");
             Console.WriteLine("                                           |                     |");
+            Console.WriteLine(@"                                           |      \       \      |");
             Console.WriteLine("                                           |                     |");
-            Console.WriteLine("                                           |                     |");
-            Console.WriteLine("                                           |                     |");
-            Console.WriteLine("                                           |                     |");
-            Console.WriteLine("                                           |                     |");
-            Console.WriteLine("                                           |                     |");
-            Console.WriteLine("     ______________________________________|_____________________|_______________________________________");
+            Console.WriteLine(@"                         (*)               |        \            |             (*)          ");
+            Console.WriteLine("                 (*)      |                |                     |              |      (*)  ");
+            Console.WriteLine("     ___,,,,,,,,,,|,,,,,,,|,,,,,,,,,,,,,,,,|_____________________|,,,,,,,,,,,,,,|,,,,,,,|,,,,,,,,,,,,______");
             Console.WriteLine(@"                                         / \ /\ /\ /\ /\ /\ /\ / \  ");
             Console.WriteLine(@"                                         \  \  \  \  \  \  \  \   \  ");
 
