@@ -1,0 +1,119 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using LocacaoBiblioteca.Controller;
+using LocacaoBiblioteca.Model;
+
+namespace InterfaceBiblioteca
+{
+    class Program
+    {
+        static LivrosController livro = new LivrosController();
+        static UsuarioController usuario = new UsuarioController();
+        static void Main(string[] args)
+        {
+            Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
+
+            while (!RealizaLoginSistema())
+            {
+                Console.Clear();
+                Console.WriteLine("Login ou senha inválidos!");
+            }
+            MostraMenuSistema();
+
+            Console.ReadKey();
+        }
+        /// <summary>
+        /// Metodo que mostra o menu disponível do sistema
+        /// </summary>
+        private static void MostraMenuSistema()
+        {
+            var opcao = int.MinValue;
+            while (opcao != 0) {
+                Console.Clear();
+                Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
+
+                Console.WriteLine("Menu sistema");
+                Console.WriteLine("1 - Listar usuários");
+                Console.WriteLine("2 - Livros");
+                Console.WriteLine("3 - Trocar de usuário");
+                Console.WriteLine("0 - Sair");
+                Console.WriteLine("Informe a opção desejada: ");
+                opcao = int.Parse(Console.ReadKey().KeyChar.ToString());
+
+                switch (opcao)
+                {
+                    case 1:
+                        {
+                            Console.Clear();
+                            MostrarUsuarios();
+                        }
+                        break;
+                    case 2:
+                        {
+                            MostrarLivro();
+                        }
+                        break;
+                    case 3:
+                        {
+                            while (!RealizaLoginSistema())
+                            {
+                                Console.Clear();
+                                Console.WriteLine("Login ou senha inválidos!");
+                            }
+                        }
+                        break;
+                    default:
+                        break;
+                }
+            }
+            //Aqui vamos pegar numero digitado
+            //Executar proxima funcao
+        }
+        /// <summary>
+        /// metodo que realiza os procedimentos completos de login dentro do sistema como solicitação de
+        /// login e senha pelo console assim como respectivas validações que o mesmo
+        /// precisa para entrar no sistema
+        /// </summary>
+        /// <returns>Retorna verdadeiro quando o login e senha informados estiverem corretos.</returns>
+        private static bool RealizaLoginSistema()
+        {
+            Console.WriteLine("\r\nInforme seu login e senha para acessar o sistema:");
+
+            Console.WriteLine("Login:");
+            var loginDoUsuario = Console.ReadLine();
+
+            Console.WriteLine("Senha:");
+            var senhaDoUsuario = Console.ReadLine();
+
+
+            UsuarioController usuarioController = new UsuarioController();
+
+            return usuarioController.LoginSistema(new Usuario() { Login = loginDoUsuario , Senha = senhaDoUsuario });
+
+        }
+
+        private static void MostrarLivro()
+        {
+            //Livro livro = new Livro()
+            //{
+            //    Nome = "XXX"
+            //};
+            //Console.Clear();
+            //Console.WriteLine(livro.Nome);
+
+            livro.Livros.ForEach(i => Console.WriteLine($"O nome do livro é: {i.Nome}"));
+            Console.ReadKey();
+        }
+        /// <summary>
+        /// Método para mostrar a lista de usuarios ja cadastrados no sistema
+        /// </summary>
+        private static void MostrarUsuarios()
+        {
+            usuario.Usuarios.ForEach(i => Console.WriteLine(i.Login));
+            Console.ReadKey();
+        }
+    }
+}
