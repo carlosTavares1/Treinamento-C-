@@ -10,8 +10,8 @@ namespace InterfaceBiblioteca
 {
     class Program
     {
-        static LivrosController livro = new LivrosController();
-        static UsuarioController usuario = new UsuarioController();
+        static LivrosController livrosController = new LivrosController();
+        static UsuarioController usuarioController = new UsuarioController();
         static void Main(string[] args)
         {
             Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
@@ -39,6 +39,8 @@ namespace InterfaceBiblioteca
                 Console.WriteLine("1 - Listar usuários");
                 Console.WriteLine("2 - Livros");
                 Console.WriteLine("3 - Trocar de usuário");
+                Console.WriteLine("4 - Cadastrar livros");
+                Console.WriteLine("5 - Cadastrar usuário");
                 Console.WriteLine("0 - Sair");
                 Console.WriteLine("Informe a opção desejada: ");
                 opcao = int.Parse(Console.ReadKey().KeyChar.ToString());
@@ -63,6 +65,18 @@ namespace InterfaceBiblioteca
                                 Console.Clear();
                                 Console.WriteLine("Login ou senha inválidos!");
                             }
+                        }
+                        break;
+                    case 4:
+                        {
+                            Console.Clear();
+                            AdicionarLivro();
+                        }
+                        break;
+                    case 5:
+                        {
+                            Console.Clear();
+                            AdicionarUsuario();
                         }
                         break;
                     default:
@@ -104,7 +118,7 @@ namespace InterfaceBiblioteca
             //Console.Clear();
             //Console.WriteLine(livro.Nome);
 
-            livro.Livros.ForEach(i => Console.WriteLine($"O nome do livro é: {i.Nome}"));
+            livrosController.Livros.ForEach(i => Console.WriteLine($"O nome do livro é: {i.Nome}"));
             Console.ReadKey();
         }
         /// <summary>
@@ -112,8 +126,43 @@ namespace InterfaceBiblioteca
         /// </summary>
         private static void MostrarUsuarios()
         {
-            usuario.Usuarios.ForEach(i => Console.WriteLine(i.Login));
+            usuarioController.Usuarios.ForEach(i => Console.WriteLine($"Id: {i.Id} | Login: {i.Login}"));
             Console.ReadKey();
+        }
+        /// <summary>
+        /// Este método adiciona um novo livro
+        /// </summary>
+        private static void AdicionarLivro()
+        {
+            Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
+            Console.WriteLine("Cadastrar livro dentro do sistema: ");
+            Console.WriteLine("Informe o nome do livro: ");
+            var nomeDoLivro = Console.ReadLine();
+            livrosController.AdicionarLivro(new Livro()
+            {
+                Nome = nomeDoLivro
+            });
+            Console.WriteLine("Livro cadastrado com sucesso!");
+            Console.ReadKey();
+        }
+        /// <summary>
+        /// Este metodo adiciona novos usuários ao sistema
+        /// </summary>
+        private static void AdicionarUsuario()
+        {
+            Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
+            Console.WriteLine("Informe o novo login de usuário: ");
+            var login = Console.ReadLine();
+            Console.WriteLine("Informe a nova senha do usuário: ");
+            var senha = Console.ReadLine();
+            var id = 0;
+            usuarioController.Usuario(new Usuario()
+            {
+                Login = login,
+                Senha = senha,
+                Id = usuarioController.Usuarios.Count() + 1
+
+            });
         }
     }
 }

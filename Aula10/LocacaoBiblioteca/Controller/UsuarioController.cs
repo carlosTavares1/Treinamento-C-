@@ -33,7 +33,8 @@ namespace LocacaoBiblioteca.Controller
             Usuarios.Add(new Usuario()
             {
                 Login = "Admin",
-                Senha = "Admin"
+                Senha = "Admin",
+                Id = 0
             });
 
             Usuarios.Add(new Usuario()
@@ -41,6 +42,11 @@ namespace LocacaoBiblioteca.Controller
                 Login = "cast.3@hotmail.com",
                 Senha = "123456"
             });
+        }
+
+        public void Usuario(Usuario usuario)
+        {
+            Usuarios.Add(usuario);
         }
     }
 }

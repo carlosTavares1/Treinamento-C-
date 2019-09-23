@@ -24,5 +24,14 @@ namespace LocacaoBiblioteca.Controller
                 Nome = "Meu segundo livro"
             });
         }
+        /// <summary>
+        /// Metodo que adiciona o livro em nossa lista já instanciada criada dentro do construtor
+        /// </summary>
+        /// <param name="parametroLivro">Informações do livro que vamos adicionar</param>
+        public void AdicionarLivro(Livro parametroLivro)
+        {
+            //Adicionamos o livro em nossa lista
+            Livros.Add(parametroLivro);
+        }
     }
 }
