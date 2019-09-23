@@ -9,18 +9,21 @@ namespace LocacaoBiblioteca.Controller
 {
     public class LivrosController
     {
-        public List<Livro> Livros { get; set; }
+        private int idContador = 0;
+        private List<Livro> Livros { get; set; }
         public LivrosController()
         {
             Livros = new List<Livro>();
 
             Livros.Add(new Livro()
             {
+                Id = idContador++,
                 Nome = "Meu primeiro livro"
             });
 
             Livros.Add(new Livro()
             {
+                Id = idContador++,
                 Nome = "Meu segundo livro"
             });
         }
@@ -31,7 +34,16 @@ namespace LocacaoBiblioteca.Controller
         public void AdicionarLivro(Livro parametroLivro)
         {
             //Adicionamos o livro em nossa lista
+            parametroLivro.Id = idContador++;
             Livros.Add(parametroLivro);
+        }
+        /// <summary>
+        /// Metodo retorna a lista de livros
+        /// </summary>
+        /// <returns>Retorna a lista de livros</returns>
+        public List<Livro> RetornaListaDeLivros()
+        {
+            return Livros;
         }
     }
 }

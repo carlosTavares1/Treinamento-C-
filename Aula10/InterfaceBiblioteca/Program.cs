@@ -14,6 +14,8 @@ namespace InterfaceBiblioteca
         static UsuarioController usuarioController = new UsuarioController();
         static void Main(string[] args)
         {
+            
+
             Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
 
             while (!RealizaLoginSistema())
@@ -37,10 +39,11 @@ namespace InterfaceBiblioteca
 
                 Console.WriteLine("Menu sistema");
                 Console.WriteLine("1 - Listar usuários");
-                Console.WriteLine("2 - Livros");
+                Console.WriteLine("2 - Listar livros");
                 Console.WriteLine("3 - Trocar de usuário");
                 Console.WriteLine("4 - Cadastrar livros");
                 Console.WriteLine("5 - Cadastrar usuário");
+                Console.WriteLine("6 - Remover usuário");
                 Console.WriteLine("0 - Sair");
                 Console.WriteLine("Informe a opção desejada: ");
                 opcao = int.Parse(Console.ReadKey().KeyChar.ToString());
@@ -79,6 +82,12 @@ namespace InterfaceBiblioteca
                             AdicionarUsuario();
                         }
                         break;
+                    case 6:
+                        {
+                            Console.Clear();
+                            RemoverUsuarioPeloId();
+                        }
+                        break;
                     default:
                         break;
                 }
@@ -86,6 +95,20 @@ namespace InterfaceBiblioteca
             //Aqui vamos pegar numero digitado
             //Executar proxima funcao
         }
+        private static void RemoverUsuarioPeloId()
+        {
+            Console.WriteLine("                             ----------Remover usuário pelo id no sistema----------");
+            //Metodo que retorna a lista de usuarios
+            MostrarUsuarios();
+
+            Console.WriteLine("Informe o id que voce deseja remover: ");
+            var usuarioId = int.Parse(Console.ReadLine());
+            //Aqui chamamos removerusuarioporid da nossa classe que controla os usuarios do sistema
+            usuarioController.RemoverUsuarioPorId(usuarioId);
+            //Informamos que o usuario foi desativado com sucesso
+            Console.WriteLine("Usuário desativado com sucesso");
+        }
+
         /// <summary>
         /// metodo que realiza os procedimentos completos de login dentro do sistema como solicitação de
         /// login e senha pelo console assim como respectivas validações que o mesmo
@@ -94,6 +117,7 @@ namespace InterfaceBiblioteca
         /// <returns>Retorna verdadeiro quando o login e senha informados estiverem corretos.</returns>
         private static bool RealizaLoginSistema()
         {
+            Console.Clear();
             Console.WriteLine("\r\nInforme seu login e senha para acessar o sistema:");
 
             Console.WriteLine("Login:");
@@ -103,12 +127,14 @@ namespace InterfaceBiblioteca
             var senhaDoUsuario = Console.ReadLine();
 
 
-            UsuarioController usuarioController = new UsuarioController();
+           // UsuarioController usuarioController = new UsuarioController();
 
             return usuarioController.LoginSistema(new Usuario() { Login = loginDoUsuario , Senha = senhaDoUsuario });
 
         }
-
+        /// <summary>
+        /// Este método mostra os livros no sistema
+        /// </summary>
         private static void MostrarLivro()
         {
             //Livro livro = new Livro()
@@ -117,8 +143,9 @@ namespace InterfaceBiblioteca
             //};
             //Console.Clear();
             //Console.WriteLine(livro.Nome);
-
-            livrosController.Livros.ForEach(i => Console.WriteLine($"O nome do livro é: {i.Nome}"));
+            Console.Clear();
+            Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
+            livrosController.RetornaListaDeLivros().ForEach(i => Console.WriteLine($"Código: {i.Id} Nome: {i.Nome}"));
             Console.ReadKey();
         }
         /// <summary>
@@ -126,7 +153,7 @@ namespace InterfaceBiblioteca
         /// </summary>
         private static void MostrarUsuarios()
         {
-            usuarioController.Usuarios.ForEach(i => Console.WriteLine($"Id: {i.Id} | Login: {i.Login}"));
+            usuarioController.RetornaListaDeUsuario().ForEach(i => Console.WriteLine($"Id: {i.Id} | Login: {i.Login}"));
             Console.ReadKey();
         }
         /// <summary>
@@ -155,13 +182,10 @@ namespace InterfaceBiblioteca
             var login = Console.ReadLine();
             Console.WriteLine("Informe a nova senha do usuário: ");
             var senha = Console.ReadLine();
-            var id = 0;
             usuarioController.Usuario(new Usuario()
             {
                 Login = login,
-                Senha = senha,
-                Id = usuarioController.Usuarios.Count() + 1
-
+                Senha = senha
             });
         }
     }
