@@ -44,6 +44,7 @@ namespace InterfaceBiblioteca
                 Console.WriteLine("4 - Cadastrar livros");
                 Console.WriteLine("5 - Cadastrar usuário");
                 Console.WriteLine("6 - Remover usuário");
+                Console.WriteLine("7 - Remover livro");
                 Console.WriteLine("0 - Sair");
                 Console.WriteLine("Informe a opção desejada: ");
                 opcao = int.Parse(Console.ReadKey().KeyChar.ToString());
@@ -88,13 +89,26 @@ namespace InterfaceBiblioteca
                             RemoverUsuarioPeloId();
                         }
                         break;
+                    case 7:
+                        {
+                            Console.Clear();
+                            RemoverLivroPeloId();
+                        }
+                        break;
+                    case 0:
+                        {
+                            Console.Clear();
+                            Console.WriteLine("Logout bem sucedido! Pressione qualquer tecla para sair...");
+                        }
+                        break;
                     default:
                         break;
                 }
             }
-            //Aqui vamos pegar numero digitado
-            //Executar proxima funcao
         }
+        /// <summary>
+        /// Este método remove o usuário pelo id
+        /// </summary>
         private static void RemoverUsuarioPeloId()
         {
             Console.WriteLine("                             ----------Remover usuário pelo id no sistema----------");
@@ -108,7 +122,6 @@ namespace InterfaceBiblioteca
             //Informamos que o usuario foi desativado com sucesso
             Console.WriteLine("Usuário desativado com sucesso");
         }
-
         /// <summary>
         /// metodo que realiza os procedimentos completos de login dentro do sistema como solicitação de
         /// login e senha pelo console assim como respectivas validações que o mesmo
@@ -187,6 +200,22 @@ namespace InterfaceBiblioteca
                 Login = login,
                 Senha = senha
             });
+        }
+        /// <summary>
+        /// Este método remove um livro da lista
+        /// </summary>
+        private static void RemoverLivroPeloId()
+        {
+            Console.Clear();
+            Console.WriteLine("                     ----------SISTEMA DE LOCAÇÃO DE LIVRO 1.0----------");
+            MostrarLivro();
+            Console.WriteLine("Informe o Código do livro que deseja excluir:");
+            var excluirLivro = int.Parse(Console.ReadLine());
+            livrosController.RemoverLivroPorId(excluirLivro);
+            Console.Clear();
+            Console.WriteLine("----------Livro excluído com sucesso!!!");
+            Console.WriteLine("Pressione qualquer tecla para voltar ao menu...");
+            Console.ReadKey();
         }
     }
 }
