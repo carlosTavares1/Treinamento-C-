@@ -154,13 +154,22 @@ namespace ExercicioAula11
                 Carteira = 667.00
             });
             #endregion
-            Console.WriteLine("----------Lista crescente por nome----------");
+            Console.WriteLine("----------Lista crescente por nome----------\r\n");
             listaPessoas.OrderBy(x => x.Nome).ToList<Pessoa>().ForEach(i => Console.WriteLine($"Id {i.Id} Nome {i.Nome}"));
-            Console.WriteLine("----------Lista descrescente por data de nascimento");
+            Console.WriteLine("\r\n----------Lista descrescente por data de nascimento----------\r\n");
             listaPessoas.OrderByDescending(x => x.DataNascimento).ToList<Pessoa>().ForEach(i => Console.WriteLine($"Nome {i.Nome} Nascimento {i.DataNascimento.ToShortDateString()}"));
-            Console.WriteLine("----------Lista de pessoas que têm mais de 500 reais na carteira");
+            Console.WriteLine("\r\n----------Lista de pessoas que têm mais de 500 reais na carteira----------\r\n");
             var listaPorValor = listaPessoas.Where(x => x.Carteira > 500).OrderBy(x => x.Carteira);
             listaPorValor.ToList<Pessoa>().ForEach(i => Console.WriteLine($"Nome {i.Nome} Valor {i.Carteira}"));
+            Console.WriteLine("\r\n----------Lista de pessoas maiores que 18 anos----------\r\n");
+            var listaDezoito = listaPessoas.FindAll(x => (DateTime.Now.Year - x.DataNascimento.Year) >= 18).OrderBy(x => x.DataNascimento).ToList<Pessoa>();
+            listaDezoito.ForEach(i => Console.WriteLine($"Nome {i.Nome}         Nascimento {i.DataNascimento.ToShortDateString()}"));
+            Console.WriteLine("\r\n----------Lista de pessoas menores que 16 anos----------\r\n");
+            listaPessoas.FindAll(i => (DateTime.Now.Year - i.DataNascimento.Year) <= 16).OrderBy(x => x.DataNascimento).ToList<Pessoa>().ForEach(x => Console.WriteLine($"Nome {x.Nome}         Nascimento {x.DataNascimento.ToShortDateString()}"));
+            Console.WriteLine("\r\n----------Lista organizada em ordem crescente por Id----------\r\n");
+            listaPessoas.OrderBy(x => x.Id).ToList<Pessoa>().ForEach(i => Console.WriteLine($"Id {i.Id} Nome {i.Nome}"));
+            Console.WriteLine("\r\n----------Lista organizada em ordem decrescente por Id----------\r\n");
+            listaPessoas.OrderByDescending(x => x.Id).ToList<Pessoa>().ForEach(i => Console.WriteLine($"Id {i.Id} Nome {i.Nome}"));
             Console.ReadKey();
         }
     }
