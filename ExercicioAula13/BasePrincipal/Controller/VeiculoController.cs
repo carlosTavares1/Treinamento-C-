@@ -9,86 +9,33 @@ namespace BasePrincipal.Controller
 {
     public class VeiculoController
     {
-        public List<Veiculo> ListaDeVeiculos { get; set; }
 
-        public VeiculoController()
+        public static void Menu()
         {
-            ListaDeVeiculos = new List<Veiculo>();
-
-            ListaDeVeiculos.Add(new Veiculo()
+            Console.WriteLine("----------Sistema de consulta de vendas de Veículos----------");
+            Console.WriteLine("Escolha uma das opções abaixo");
+            Console.WriteLine(@"1 - Relatórios do mês
+2 - Vendas do mês
+3 - Total de vendas mês
+4 - Média das vendas no mês");
+            Console.WriteLine("Digite sua opção:")
+            var opcao = int.Parse(Console.ReadKey().KeyChar.ToString());
+            switch (opcao)
             {
-                Id = 1,
-                Nome = "Risus Company",
-                Valor = 7200,
-                Quantidade = 18,
-                DataDaVenda = DateTime.Parse("29/01/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 2,
-                Nome = "Risus Associates",
-                Valor = 9961,
-                Quantidade = 4,
-                DataDaVenda = DateTime.Parse("10/02/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 3,
-                Nome = "Et Libero Proin Foundation",
-                Valor = 8710,
-                Quantidade = 17,
-                DataDaVenda = DateTime.Parse("24/01/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 4,
-                Nome = "Cursus El Ltd",
-                Valor = 9010,
-                Quantidade = 17,
-                DataDaVenda = DateTime.Parse("26/10/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 5,
-                Nome = "Odio Etiam Ligula Company",
-                Valor = 5245,
-                Quantidade = 8,
-                DataDaVenda = DateTime.Parse("16/02/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 6,
-                Nome = "Eu Nibh Inc.",
-                Valor = 7922,
-                Quantidade = 9,
-                DataDaVenda = DateTime.Parse("27/06/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 7,
-                Nome = "Tellus Limited",
-                Valor = 7294,
-                Quantidade = 7,
-                DataDaVenda = DateTime.Parse("26/01/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 8,
-                Nome = "Imperdiet PC",
-                Valor = 8305,
-                Quantidade = 5,
-                DataDaVenda = DateTime.Parse("06/09/2019")
-            });
-            ListaDeVeiculos.Add(new Veiculo()
-            {
-                Id = 9,
-                Nome = "Elit Inc.",
-                Valor = 5398,
-                Quantidade = 18,
-                DataDaVenda = DateTime.Parse("09/06/2019")
-            });
+                case 1:
+                    {
+                        Console.Clear();
+                        Console.WriteLine("Informe o mês para consulta:");
+                        
+                    }
+                default:
+            }
         }
 
-
+        public static void ConsultaPorMes()
+        {
+            ContextDB consulta = new ContextDB();
+            consulta.ListaDeVeiculos.FindAll(i => i.)
+        }
     }
 }
