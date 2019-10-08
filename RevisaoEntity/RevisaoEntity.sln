@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisandoEntity", "RevisandoEntity\RevisandoEntity.csproj", "{EE520BDD-120F-4881-B2AA-44C32D36154E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacaoVisual", "AplicacaoVisual\AplicacaoVisual.csproj", "{EBE81EB4-B72E-4200-B5BC-A08F203FCD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE520BDD-120F-4881-B2AA-44C32D36154E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE520BDD-120F-4881-B2AA-44C32D36154E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE520BDD-120F-4881-B2AA-44C32D36154E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE520BDD-120F-4881-B2AA-44C32D36154E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBE81EB4-B72E-4200-B5BC-A08F203FCD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE81EB4-B72E-4200-B5BC-A08F203FCD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE81EB4-B72E-4200-B5BC-A08F203FCD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBE81EB4-B72E-4200-B5BC-A08F203FCD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3FE050-34EE-4F50-8892-FB709A04E34D}
+	EndGlobalSection
+EndGlobal
