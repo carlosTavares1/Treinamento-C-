@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MVCFlores.Model
 {
-    public class Flores
+    public class Flor : Controle
     {
         [Key]
         public int Id { get; set; }
