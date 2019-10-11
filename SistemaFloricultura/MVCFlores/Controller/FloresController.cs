@@ -7,18 +7,35 @@ using MVCFlores.Model;
 
 namespace MVCFlores.Controller
 {
-    class FloresController
+    public class FloresController
     {
         ContextDB contextDB = new ContextDB();
-
-        public IQueryable<Flor> Flors()
+        /// <summary>
+        /// Este método faz a varredura dos valores na base de dados e retorna os registros que estão ativos na base de dados
+        /// </summary>
+        /// <returns>Ele retorna somente os registros ativos</returns>
+        public IQueryable<Flor> GetFlors()
         {
-            return contextDB.Flors.Where(x => x.Ativo == true)
+            return contextDB.Flors.Where(x => x.Ativo == true);
         }
-
-        public bool InserirFlor()
+        /// <summary>
+        /// Este método faz a verificação das informações se estão corretas e adiciona na base de dados
+        /// </summary>
+        /// <param name="flor">Recebe como parâmetro um objeto do tipo Flor</param>
+        /// <returns>Retorna verdadeiro caso as informações estejam corretas</returns>
+        public bool InserirFlor(Flor flor)
         {
-
+            if (string.IsNullOrWhiteSpace(flor.Nome))
+            {
+                return false;
+            }
+            if (flor.Quantidade <= 0)
+            {
+                return false;
+            }
+            contextDB.Flors.Add(flor);
+            contextDB.SaveChanges();
+            return true;
         }
     }
 }
