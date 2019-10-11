@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BicicletaLibrary", "BicicletaLibrary\BicicletaLibrary.csproj", "{9E1E0B00-6528-4489-A45A-0940FF0E6230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSistema", "InterfaceSistema\InterfaceSistema.csproj", "{49776790-CCE1-47B7-9932-ACA490FE3D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E1E0B00-6528-4489-A45A-0940FF0E6230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1E0B00-6528-4489-A45A-0940FF0E6230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1E0B00-6528-4489-A45A-0940FF0E6230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1E0B00-6528-4489-A45A-0940FF0E6230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49776790-CCE1-47B7-9932-ACA490FE3D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49776790-CCE1-47B7-9932-ACA490FE3D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49776790-CCE1-47B7-9932-ACA490FE3D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49776790-CCE1-47B7-9932-ACA490FE3D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F429B325-8909-4AE2-84AD-D9B9432674D7}
+	EndGlobalSection
+EndGlobal
