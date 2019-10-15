@@ -1,6 +1,33 @@
 ﻿body
 {
-    elo:link,elo:visited{
-                            text-decoration:none;
-                        }
+    
+}
+h3{
+    margin-left:60px;
+}
+.formulario {
+    margin-left: 350px;
+    margin-top: 130px;
+    width: 330px;
+    height: 200px;
+    background-color: #49d55742;
+    border-radius: 7px;
+    box-shadow: 1px 1px 8px #794800;
+}
+#botao {
+    width: 320px;
+    margin-left: 5px;
+}
+#nome{
+    width:314px;
+    margin-left:5px;
+}
+#idade{
+    width:138px;
+}
+#nacionalidade {
+    margin-left: 5px;
+}
+#cpfcnpj {
+    margin-left: 5px;
 }
