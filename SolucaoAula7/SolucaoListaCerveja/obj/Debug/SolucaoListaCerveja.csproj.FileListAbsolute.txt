@@ -1,0 +1,13 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\SolucaoListaCerveja.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\SolucaoListaCerveja.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\SolucaoListaCerveja.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\SolucaoAreaDoQuadrado.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\SolucaoAreaDoQuadrado.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\SolucaoAreaDoQuadrado.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\obj\Debug\SolucaoListaCerveja.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\obj\Debug\SolucaoListaCerveja.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\obj\Debug\SolucaoListaCerveja.csproj.CopyComplete
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\obj\Debug\SolucaoListaCerveja.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\obj\Debug\SolucaoListaCerveja.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\MinhaBiblioteca.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoListaCerveja\bin\Debug\MinhaBiblioteca.pdb

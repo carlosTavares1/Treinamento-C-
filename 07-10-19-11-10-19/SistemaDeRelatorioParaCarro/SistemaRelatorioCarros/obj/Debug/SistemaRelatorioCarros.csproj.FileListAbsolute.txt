@@ -1,0 +1,6 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaDeRelatorioParaCarro\SistemaRelatorioCarros\bin\Debug\SistemaRelatorioCarros.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaDeRelatorioParaCarro\SistemaRelatorioCarros\bin\Debug\SistemaRelatorioCarros.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaDeRelatorioParaCarro\SistemaRelatorioCarros\obj\Debug\SistemaRelatorioCarros.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaDeRelatorioParaCarro\SistemaRelatorioCarros\obj\Debug\SistemaRelatorioCarros.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaDeRelatorioParaCarro\SistemaRelatorioCarros\obj\Debug\SistemaRelatorioCarros.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaDeRelatorioParaCarro\SistemaRelatorioCarros\obj\Debug\SistemaRelatorioCarros.pdb

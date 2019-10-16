@@ -1,0 +1,15 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\InterfaceFloricultura.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\InterfaceFloricultura.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\InterfaceFloricultura.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\EntityFramework.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\MVCFlores.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\MVCFlores.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\MVCFlores.dll.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\EntityFramework.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\obj\Debug\InterfaceFloricultura.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\obj\Debug\InterfaceFloricultura.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\obj\Debug\InterfaceFloricultura.csproj.CopyComplete
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\obj\Debug\InterfaceFloricultura.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\InterfaceFloricultura\obj\Debug\InterfaceFloricultura.pdb

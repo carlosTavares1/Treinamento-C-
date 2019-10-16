@@ -1,0 +1,5 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\MinhaBiblioteca\bin\Debug\MinhaBiblioteca.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\MinhaBiblioteca\bin\Debug\MinhaBiblioteca.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\MinhaBiblioteca\obj\Debug\MinhaBiblioteca.pdb

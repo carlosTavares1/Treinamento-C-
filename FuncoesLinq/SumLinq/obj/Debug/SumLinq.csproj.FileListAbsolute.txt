@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\FuncoesLinq\SumLinq\bin\Debug\SumLinq.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\FuncoesLinq\SumLinq\bin\Debug\SumLinq.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\FuncoesLinq\SumLinq\bin\Debug\SumLinq.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\FuncoesLinq\SumLinq\obj\Debug\SumLinq.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\FuncoesLinq\SumLinq\obj\Debug\SumLinq.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\FuncoesLinq\SumLinq\obj\Debug\SumLinq.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\FuncoesLinq\SumLinq\obj\Debug\SumLinq.pdb

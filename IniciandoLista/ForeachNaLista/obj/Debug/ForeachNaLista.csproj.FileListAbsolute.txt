@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\ForeachNaLista\bin\Debug\ForeachNaLista.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\ForeachNaLista\bin\Debug\ForeachNaLista.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\ForeachNaLista\bin\Debug\ForeachNaLista.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\ForeachNaLista\obj\Debug\ForeachNaLista.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\ForeachNaLista\obj\Debug\ForeachNaLista.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\ForeachNaLista\obj\Debug\ForeachNaLista.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\ForeachNaLista\obj\Debug\ForeachNaLista.pdb

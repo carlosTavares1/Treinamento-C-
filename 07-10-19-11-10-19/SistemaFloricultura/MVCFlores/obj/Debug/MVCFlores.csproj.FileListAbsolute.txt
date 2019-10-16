@@ -1,0 +1,12 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\bin\Debug\MVCFlores.dll.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\bin\Debug\MVCFlores.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\bin\Debug\MVCFlores.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\bin\Debug\EntityFramework.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\bin\Debug\EntityFramework.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\obj\Debug\MVCFlores.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\obj\Debug\MVCFlores.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\obj\Debug\MVCFlores.csproj.CopyComplete
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\obj\Debug\MVCFlores.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaFloricultura\MVCFlores\obj\Debug\MVCFlores.pdb

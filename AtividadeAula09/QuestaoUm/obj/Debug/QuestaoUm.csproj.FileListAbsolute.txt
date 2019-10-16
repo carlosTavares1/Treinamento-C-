@@ -1,0 +1,7 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoUm\bin\Debug\QuestaoUm.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoUm\bin\Debug\QuestaoUm.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoUm\bin\Debug\QuestaoUm.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoUm\obj\Debug\QuestaoUm.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoUm\obj\Debug\QuestaoUm.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoUm\obj\Debug\QuestaoUm.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoUm\obj\Debug\QuestaoUm.pdb

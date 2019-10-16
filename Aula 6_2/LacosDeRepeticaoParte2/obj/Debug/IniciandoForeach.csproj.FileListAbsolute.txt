@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula 6_2\LacosDeRepeticaoParte2\bin\Debug\LacosDeRepeticaoParte2.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula 6_2\LacosDeRepeticaoParte2\bin\Debug\LacosDeRepeticaoParte2.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula 6_2\LacosDeRepeticaoParte2\bin\Debug\LacosDeRepeticaoParte2.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula 6_2\LacosDeRepeticaoParte2\obj\Debug\IniciandoForeach.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula 6_2\LacosDeRepeticaoParte2\obj\Debug\LacosDeRepeticaoParte2.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula 6_2\LacosDeRepeticaoParte2\obj\Debug\LacosDeRepeticaoParte2.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula 6_2\LacosDeRepeticaoParte2\obj\Debug\IniciandoForeach.csprojAssemblyReference.cache

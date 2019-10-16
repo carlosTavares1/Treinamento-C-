@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula6\ReviewFor\bin\Debug\ReviewFor.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula6\ReviewFor\bin\Debug\ReviewFor.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula6\ReviewFor\bin\Debug\ReviewFor.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula6\ReviewFor\obj\Debug\ReviewFor.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula6\ReviewFor\obj\Debug\ReviewFor.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula6\ReviewFor\obj\Debug\ReviewFor.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\Aula6\ReviewFor\obj\Debug\ReviewFor.pdb

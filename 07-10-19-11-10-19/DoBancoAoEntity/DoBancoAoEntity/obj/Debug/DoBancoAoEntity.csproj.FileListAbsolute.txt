@@ -1,0 +1,15 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\bin\Debug\DoBancoAoEntity.dll.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\bin\Debug\DoBancoAoEntity.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\bin\Debug\DoBancoAoEntity.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\bin\Debug\EntityFramework.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\bin\Debug\EntityFramework.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.csproj.CopyComplete
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.Migrations.First.resources
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.csproj.GenerateResource.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\DoBancoAoEntity\DoBancoAoEntity\obj\Debug\DoBancoAoEntity.Migrations.AddCollumns.resources

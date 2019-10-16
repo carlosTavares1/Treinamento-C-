@@ -1,0 +1,7 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoDois\obj\Debug\QuestaoDois.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoDois\bin\Debug\QuestaoDois.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoDois\bin\Debug\QuestaoDois.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoDois\bin\Debug\QuestaoDois.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoDois\obj\Debug\QuestaoDois.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoDois\obj\Debug\QuestaoDois.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoDois\obj\Debug\QuestaoDois.csprojAssemblyReference.cache

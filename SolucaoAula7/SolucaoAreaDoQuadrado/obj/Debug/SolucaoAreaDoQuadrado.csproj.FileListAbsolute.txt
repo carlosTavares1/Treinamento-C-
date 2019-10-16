@@ -1,0 +1,10 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\bin\Debug\SolucaoAreaDoQuadrado.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\bin\Debug\SolucaoAreaDoQuadrado.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\bin\Debug\SolucaoAreaDoQuadrado.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\obj\Debug\SolucaoAreaDoQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\obj\Debug\SolucaoAreaDoQuadrado.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\obj\Debug\SolucaoAreaDoQuadrado.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\bin\Debug\MinhaBiblioteca.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\bin\Debug\MinhaBiblioteca.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\obj\Debug\SolucaoAreaDoQuadrado.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAreaDoQuadrado\obj\Debug\SolucaoAreaDoQuadrado.csproj.CopyComplete

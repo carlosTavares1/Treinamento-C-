@@ -1,0 +1,6 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\BasePrincipal\bin\Debug\BasePrincipal.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\BasePrincipal\bin\Debug\BasePrincipal.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\BasePrincipal\obj\Debug\BasePrincipal.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\BasePrincipal\obj\Debug\BasePrincipal.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\BasePrincipal\obj\Debug\BasePrincipal.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\BasePrincipal\obj\Debug\BasePrincipal.pdb

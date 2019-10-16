@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\MetodosPublicos\bin\Debug\MetodosPublicos.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\MetodosPublicos\bin\Debug\MetodosPublicos.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\MetodosPublicos\bin\Debug\MetodosPublicos.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\MetodosPublicos\obj\Debug\MetodosPublicos.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\MetodosPublicos\obj\Debug\MetodosPublicos.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\MetodosPublicos\obj\Debug\MetodosPublicos.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\IniciandoLista\MetodosPublicos\obj\Debug\MetodosPublicos.csprojAssemblyReference.cache

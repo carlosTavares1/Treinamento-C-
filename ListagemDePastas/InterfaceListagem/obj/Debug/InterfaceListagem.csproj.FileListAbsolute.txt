@@ -1,0 +1,11 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\bin\Debug\InterfaceListagem.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\bin\Debug\InterfaceListagem.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\bin\Debug\InterfaceListagem.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\bin\Debug\DllPastaWin.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\bin\Debug\DllPastaWin.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\bin\Debug\DllPastaWin.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\obj\Debug\InterfaceListagem.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\obj\Debug\InterfaceListagem.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\obj\Debug\InterfaceListagem.csproj.CopyComplete
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\obj\Debug\InterfaceListagem.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\ListagemDePastas\InterfaceListagem\obj\Debug\InterfaceListagem.pdb

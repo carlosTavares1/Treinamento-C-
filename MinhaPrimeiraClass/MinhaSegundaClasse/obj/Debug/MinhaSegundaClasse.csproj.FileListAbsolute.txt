@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\MinhaPrimeiraClass\MinhaSegundaClasse\bin\Debug\MinhaSegundaClasse.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\MinhaPrimeiraClass\MinhaSegundaClasse\bin\Debug\MinhaSegundaClasse.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\MinhaPrimeiraClass\MinhaSegundaClasse\bin\Debug\MinhaSegundaClasse.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\MinhaPrimeiraClass\MinhaSegundaClasse\obj\Debug\MinhaSegundaClasse.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\MinhaPrimeiraClass\MinhaSegundaClasse\obj\Debug\MinhaSegundaClasse.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\MinhaPrimeiraClass\MinhaSegundaClasse\obj\Debug\MinhaSegundaClasse.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\MinhaPrimeiraClass\MinhaSegundaClasse\obj\Debug\MinhaSegundaClasse.csprojAssemblyReference.cache

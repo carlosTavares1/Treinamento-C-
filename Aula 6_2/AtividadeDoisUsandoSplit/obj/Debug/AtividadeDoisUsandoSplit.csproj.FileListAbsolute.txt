@@ -1,0 +1,7 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AtividadeDoisUsandoSplit\obj\Debug\AtividadeDoisUsandoSplit.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AtividadeDoisUsandoSplit\bin\Debug\AtividadeDoisUsandoSplit.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AtividadeDoisUsandoSplit\bin\Debug\AtividadeDoisUsandoSplit.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AtividadeDoisUsandoSplit\bin\Debug\AtividadeDoisUsandoSplit.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AtividadeDoisUsandoSplit\obj\Debug\AtividadeDoisUsandoSplit.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AtividadeDoisUsandoSplit\obj\Debug\AtividadeDoisUsandoSplit.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AtividadeDoisUsandoSplit\obj\Debug\AtividadeDoisUsandoSplit.pdb

@@ -1,0 +1,10 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\bin\Debug\ApresentandoOsAlcolatras.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\bin\Debug\ApresentandoOsAlcolatras.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\bin\Debug\ApresentandoOsAlcolatras.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\bin\Debug\ListagemDeCervejas.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\bin\Debug\ListagemDeCervejas.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\obj\Debug\ApresentandoOsAlcolatras.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\obj\Debug\ApresentandoOsAlcolatras.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\obj\Debug\ApresentandoOsAlcolatras.csproj.CopyComplete
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\obj\Debug\ApresentandoOsAlcolatras.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\LeituraDaCervejada\ApresentandoOsAlcolatras\obj\Debug\ApresentandoOsAlcolatras.pdb

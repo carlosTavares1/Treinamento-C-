@@ -1,0 +1,7 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\Atividade3\obj\Debug\Atividade3.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\Atividade3\obj\Debug\Atividade3.csprojAssemblyReference.cache

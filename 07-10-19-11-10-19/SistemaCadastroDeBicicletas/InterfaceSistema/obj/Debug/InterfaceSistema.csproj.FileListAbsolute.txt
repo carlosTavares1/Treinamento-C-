@@ -1,0 +1,17 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\obj\Debug\InterfaceSistema.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\obj\Debug\InterfaceSistema.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\InterfaceSistema.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\InterfaceSistema.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\InterfaceSistema.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\BicicletaLibrary.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\EntityFramework.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\BicicletaLibrary.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\BicicletaLibrary.dll.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\EntityFramework.xml
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\obj\Debug\InterfaceSistema.csproj.CopyComplete
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\obj\Debug\InterfaceSistema.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\obj\Debug\InterfaceSistema.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\InterfaceSistema\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\ExecutaAtvidade7\bin\Debug\ExecutaAtvidade7.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\ExecutaAtvidade7\bin\Debug\ExecutaAtvidade7.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\ExecutaAtvidade7\bin\Debug\ExecutaAtvidade7.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\ExecutaAtvidade7\obj\Debug\ExecutaAtvidade7.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\ExecutaAtvidade7\obj\Debug\ExecutaAtvidade7.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\ExecutaAtvidade7\obj\Debug\ExecutaAtvidade7.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\ExecutaAtvidade7\obj\Debug\ExecutaAtvidade7.pdb

@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\JogoDaForca\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\JogoDaForca\Jogo\bin\Debug\Jogo.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\JogoDaForca\Jogo\bin\Debug\Jogo.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\JogoDaForca\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\JogoDaForca\Jogo\obj\Debug\Jogo.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\JogoDaForca\Jogo\obj\Debug\Jogo.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\JogoDaForca\Jogo\obj\Debug\Jogo.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoTres\bin\Debug\QuestaoTres.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoTres\bin\Debug\QuestaoTres.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoTres\bin\Debug\QuestaoTres.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoTres\obj\Debug\QuestaoTres.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoTres\obj\Debug\QuestaoTres.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoTres\obj\Debug\QuestaoTres.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AtividadeAula09\QuestaoTres\obj\Debug\QuestaoTres.pdb

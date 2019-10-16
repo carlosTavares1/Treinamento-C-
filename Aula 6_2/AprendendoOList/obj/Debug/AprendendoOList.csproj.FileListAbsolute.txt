@@ -1,0 +1,7 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AprendendoOList\bin\Debug\AprendendoOList.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AprendendoOList\bin\Debug\AprendendoOList.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AprendendoOList\bin\Debug\AprendendoOList.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AprendendoOList\obj\Debug\AprendendoOList.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AprendendoOList\obj\Debug\AprendendoOList.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AprendendoOList\obj\Debug\AprendendoOList.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\Aula 6_2\AprendendoOList\obj\Debug\AprendendoOList.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\bin\Debug\Produto.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\bin\Debug\Produto.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\obj\Debug\Produto.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\obj\Debug\Produto.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\bin\Debug\Produto.dll.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\bin\Debug\EntityFramework.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\bin\Debug\EntityFramework.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\obj\Debug\Estoque.csproj.CopyComplete
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\Produto\obj\Debug\Estoque.csprojAssemblyReference.cache

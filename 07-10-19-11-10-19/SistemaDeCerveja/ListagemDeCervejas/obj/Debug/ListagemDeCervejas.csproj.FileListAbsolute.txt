@@ -1,0 +1,6 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\ListagemDeCervejas\bin\Debug\ListagemDeCervejas.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\ListagemDeCervejas\bin\Debug\ListagemDeCervejas.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\ListagemDeCervejas\obj\Debug\ListagemDeCervejas.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\ListagemDeCervejas\obj\Debug\ListagemDeCervejas.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\ListagemDeCervejas\obj\Debug\ListagemDeCervejas.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\ListagemDeCervejas\bin\Debug\ListagemDeCervejas.xml

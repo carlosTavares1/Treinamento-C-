@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ListagemDeCarros</name>
+    </assembly>
+    <members>
+        <member name="M:ListagemDeCarros.Model.SistemaCarrosContext.#ctor">
+            <summary>
+            Este construtor possibilita o acesso a massa de dados
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAtividadeDesenhoArvore\bin\Debug\SolucaoAtividadeDesenhoArvore.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAtividadeDesenhoArvore\bin\Debug\SolucaoAtividadeDesenhoArvore.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAtividadeDesenhoArvore\bin\Debug\SolucaoAtividadeDesenhoArvore.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAtividadeDesenhoArvore\obj\Debug\SolucaoAtividadeDesenhoArvore.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAtividadeDesenhoArvore\obj\Debug\SolucaoAtividadeDesenhoArvore.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAtividadeDesenhoArvore\obj\Debug\SolucaoAtividadeDesenhoArvore.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\SolucaoAtividadeDesenhoArvore\obj\Debug\SolucaoAtividadeDesenhoArvore.pdb

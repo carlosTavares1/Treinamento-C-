@@ -1,0 +1,7 @@
+body{
+    background-image:url('../css/fundoMoeda.jpg');
+    background-size:cover;
+}
+#campos{
+    margin-top:190px;
+}

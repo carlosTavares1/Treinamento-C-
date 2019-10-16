@@ -1,0 +1,10 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\bin\Debug\Interface.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\bin\Debug\Interface.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\bin\Debug\Interface.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\bin\Debug\ListagemDeCervejas.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\bin\Debug\ListagemDeCervejas.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\obj\Debug\Interface.csproj.CopyComplete
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\obj\Debug\Interface.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaDeCerveja\Interface\obj\Debug\Interface.pdb

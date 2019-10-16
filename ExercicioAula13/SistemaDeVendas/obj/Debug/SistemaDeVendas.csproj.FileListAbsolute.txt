@@ -1,0 +1,10 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\obj\Debug\SistemaDeVendas.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\bin\Debug\SistemaDeVendas.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\bin\Debug\SistemaDeVendas.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\bin\Debug\SistemaDeVendas.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\bin\Debug\BasePrincipal.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\bin\Debug\BasePrincipal.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\obj\Debug\SistemaDeVendas.csproj.CopyComplete
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\obj\Debug\SistemaDeVendas.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\ExercicioAula13\SistemaDeVendas\obj\Debug\SistemaDeVendas.pdb

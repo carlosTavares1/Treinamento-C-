@@ -1,0 +1,7 @@
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\AtividadeAula7\bin\Debug\AtividadeAula7.exe.config
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\AtividadeAula7\bin\Debug\AtividadeAula7.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\AtividadeAula7\bin\Debug\AtividadeAula7.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\AtividadeAula7\obj\Debug\AtividadeAula7.csprojAssemblyReference.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\AtividadeAula7\obj\Debug\AtividadeAula7.csproj.CoreCompileInputs.cache
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\AtividadeAula7\obj\Debug\AtividadeAula7.exe
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SolucaoAula7\AtividadeAula7\obj\Debug\AtividadeAula7.pdb

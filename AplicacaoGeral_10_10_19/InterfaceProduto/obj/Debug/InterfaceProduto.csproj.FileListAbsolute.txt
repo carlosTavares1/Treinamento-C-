@@ -1,0 +1,15 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\InterfaceProduto.exe.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\InterfaceProduto.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\InterfaceProduto.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\Produto.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\EntityFramework.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\Produto.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\Produto.dll.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\EntityFramework.xml
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\obj\Debug\InterfaceProduto.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\obj\Debug\InterfaceProduto.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\obj\Debug\InterfaceProduto.csproj.CopyComplete
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\obj\Debug\InterfaceProduto.exe
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\obj\Debug\InterfaceProduto.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\AplicacaoGeral_10_10_19\InterfaceProduto\bin\Debug\EntityFramework.SqlServer.xml

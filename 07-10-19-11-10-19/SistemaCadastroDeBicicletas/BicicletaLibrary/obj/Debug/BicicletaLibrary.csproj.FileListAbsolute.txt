@@ -1,0 +1,14 @@
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\BicicletaLibrary.dll.config
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\BicicletaLibrary.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\BicicletaLibrary.pdb
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\EntityFramework.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\EntityFramework.xml
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\obj\Debug\BicicletaLibrary.csprojAssemblyReference.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\obj\Debug\BicicletaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\obj\Debug\BicicletaLibrary.csproj.CopyComplete
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\obj\Debug\BicicletaLibrary.dll
+C:\Users\900070\Source\Repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\obj\Debug\BicicletaLibrary.pdb
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaCadastroDeBicicletas\BicicletaLibrary\bin\Debug\Newtonsoft.Json.xml

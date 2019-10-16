@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ListagemDeCervejas</name>
+    </assembly>
+    <members>
+        <member name="M:ListagemDeCervejas.Controller.CervejaController.GetCervejaContext">
+            <summary>
+            Este método é definido como tipo lista Cerveja
+            </summary>
+            <returns>Retorna a lista de cerveja</returns>
+        </member>
+        <member name="M:ListagemDeCervejas.Controller.CervejaController.SetCervejaContext(ListagemDeCervejas.Model.Cerveja)">
+            <summary>
+            Método que permite a inserção de informação na lista
+            </summary>
+            <param name="cerveja">Recebe como parâmtro um objeto do tipo cerveja</param>
+        </member>
+        <member name="P:ListagemDeCervejas.Model.Cerveja.Id">
+            <summary>
+            Propriedade que armazena id
+            </summary>
+        </member>
+        <member name="P:ListagemDeCervejas.Model.Cerveja.Nome">
+            <summary>
+            Propriedade que armazena o nome da cerveja
+            </summary>
+        </member>
+        <member name="P:ListagemDeCervejas.Model.Cerveja.Litros">
+            <summary>
+            Propriedade que armazena a quantidade de litros por unidade
+            </summary>
+        </member>
+        <member name="P:ListagemDeCervejas.Model.Cerveja.Alcool">
+            <summary>
+            Propriedade que armazena percentual de alcool por unidade
+            </summary>
+        </member>
+        <member name="P:ListagemDeCervejas.Model.Cerveja.Valor">
+            <summary>
+            Propriedade que armazena o valor por unidade da cerveja
+            </summary>
+        </member>
+        <member name="P:ListagemDeCervejas.Model.SistemaCervejaContext.ListaDeCerveja">
+            <summary>
+            Esta propriedade foi declarada para servir de lista de cerveja
+            </summary>
+        </member>
+        <member name="P:ListagemDeCervejas.Model.SistemaCervejaContext.NovoItem">
+            <summary>
+            Esta propriedade foi criada para permitir a inserção de informações novas
+            </summary>
+        </member>
+        <member name="M:ListagemDeCervejas.Model.SistemaCervejaContext.#ctor">
+            <summary>
+            Este construtor armazena algumas informações declaradas na lista
+            </summary>
+        </member>
+    </members>
+</doc>
