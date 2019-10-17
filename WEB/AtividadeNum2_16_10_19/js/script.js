@@ -1,15 +1,6 @@
 $(document).ready(function () {
-    $("#money").inputmask('currency', {
-        "autoUnmask": true,
-        radixPoint: ",",
-        groupSeparator: ".",
-        allowMinus: false,
-        prefix: 'R$ ',
-        digits: 2,
-        digitsOptional: false,
-        rightAlign: true,
-        unmaskAsNumber: true
-    });
+    $("#real").mask('#.##0,00', { reverse: true });
+
 function funcao() {
     var real = $('input[name="real"]').val();
     var resultado = real / 4.18;
