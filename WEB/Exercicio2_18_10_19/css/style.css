@@ -1,0 +1,9 @@
+body{
+	background-image:url('https://trek.scene7.com/is/image/TrekBicycleProducts/Domane_Homepage_marquee?$responsive-pjpg$&cache=on,on&wid=1920');
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:100vh;
+}
+.card{
+	background-color:#ffffff54;
+}
