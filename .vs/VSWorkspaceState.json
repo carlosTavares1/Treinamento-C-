@@ -1,15 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\WEB",
-    "\\WEB\\Treino_JS_Em_Casa",
-    "\\WEB\\Treino_JS_Em_Casa\\ExercícioApostilaCaelum"
-    "\\WEB\\ExercicioDois",
-    "\\WEB\\ExercicioDois\\js",
-    "\\WEB\\Exercicio_18_10_19",
-    "\\WEB\\Exercicio_18_10_19\\css",
-    "\\WEB\\Exercicio_18_10_19\\js"
+    "\\WEBAPI\\js",
+    "\\WEBAPI_EXERCICIO_1_21_10_19",
+    "\\WEBAPI_EXERCICIO_1_21_10_19\\js"
   ],
-  "SelectedNode": "\\WEB\\Treino_JS_Em_Casa\\ExercícioApostilaCaelum",
+  "SelectedNode": "\\WEBAPI_EXERCICIO_1_21_10_19\\js\\script.js",
   "PreviewInSolutionExplorer": false
 }

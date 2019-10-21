@@ -1,5 +1,7 @@
 body {
     background-image: url('https://wallpaperaccess.com/full/30885.jpg');
+    background-size:100%;
+    background-repeat:no-repeat;
 }
 #cartao {
     background-color: #fbfafa59;
