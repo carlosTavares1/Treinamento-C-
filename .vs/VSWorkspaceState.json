@@ -1,12 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\WEB",
+    "\\WEB\\Treino_JS_Em_Casa",
+    "\\WEB\\Treino_JS_Em_Casa\\ExercícioApostilaCaelum"
     "\\WEB\\ExercicioDois",
     "\\WEB\\ExercicioDois\\js",
     "\\WEB\\Exercicio_18_10_19",
     "\\WEB\\Exercicio_18_10_19\\css",
     "\\WEB\\Exercicio_18_10_19\\js"
   ],
-  "SelectedNode": "\\WEB",
+  "SelectedNode": "\\WEB\\Treino_JS_Em_Casa\\ExercícioApostilaCaelum",
   "PreviewInSolutionExplorer": false
 }

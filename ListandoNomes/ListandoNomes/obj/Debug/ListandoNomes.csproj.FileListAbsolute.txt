@@ -1,0 +1,11 @@
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\bin\Debug\ListandoNomes.dll.config
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\bin\Debug\ListandoNomes.dll
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\bin\Debug\ListandoNomes.pdb
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\bin\Debug\EntityFramework.dll
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\bin\Debug\EntityFramework.xml
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\obj\Debug\ListandoNomes.csprojAssemblyReference.cache
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\obj\Debug\ListandoNomes.csproj.CopyComplete
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\obj\Debug\ListandoNomes.dll
+C:\Users\cast3\source\repos\carlosTavares1\Treinamento-C-\ListandoNomes\ListandoNomes\obj\Debug\ListandoNomes.pdb
