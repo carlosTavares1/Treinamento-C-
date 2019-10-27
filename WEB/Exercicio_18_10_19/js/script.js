@@ -1,4 +1,4 @@
-var doguinho = { nome: "Giomar",idade: 19,raca: "srd",coloracao: "caramelo", };
+var doguinho = { nome: "Giomar",idade: 19,raca: "srd",coloracao: "caramelo" };
 
 $(document).ready(
     function () {
@@ -8,6 +8,8 @@ $(document).ready(
             doguinho.idade = $('input[name="idade"]').val();
             doguinho.raca = $('input[name="raca"]').val();
             doguinho.coloracao = $('input[name="coloracao"]').val();
+            cleanScreen();
+            alert("Informações salvas com sucesso!");
         });
 
         $('input[name="btnMostrar"]').click(function () {
@@ -16,3 +18,7 @@ $(document).ready(
 
     }
 );
+function cleanScreen() {
+    var meusInputs = $('input[type="text"]');
+    meusInputs.val("");
+}
