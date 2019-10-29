@@ -28,5 +28,11 @@ namespace SolucaoLIstaDeNomes.Controllers
         {
             return listaDePessoas;
         }
+
+        public List<Pessoa> Post(Pessoa value)
+        {
+            listaDePessoas.Add(value);
+            return listaDePessoas.OrderByDescending(p => p.Idade).ToList();
+        }
     }
 }
