@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Program
+    public class Program
     {
         static List<string> nome = new List<string>();
         static void Main(string[] args)
@@ -91,5 +91,7 @@ namespace ConsoleApp1
             Console.Clear();
             Menu();
         }
+
+        
     }
 }
