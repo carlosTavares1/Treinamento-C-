@@ -15,12 +15,12 @@ namespace WebApiBancoExistente
         {
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
-
+            //Início - Este bloco de código deve ser usado quando queremos permitir que o código faça leitura de inner join
             GlobalConfiguration.Configuration.Formatters.JsonFormatter.SerializerSettings
 .ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
             GlobalConfiguration.Configuration.Formatters
                 .Remove(GlobalConfiguration.Configuration.Formatters.XmlFormatter);
-
+            //Fim
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);

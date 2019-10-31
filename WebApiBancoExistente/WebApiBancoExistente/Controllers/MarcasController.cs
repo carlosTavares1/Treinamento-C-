@@ -12,19 +12,9 @@ using WebApiBancoExistente.Models;
 
 namespace WebApiBancoExistente.Controllers
 {
-    public class MarcasController : ApiController
+    public partial class MarcasController : ApiController
     {
         private DataBaseContext db = new DataBaseContext();
-
-
-        [HttpGet]
-        [Route("api/Marcas/CustomQueryMarcas")]
-        public object CustomMarcasQuery()
-        {
-            var listaDeMarcas = db.Marcas;
-            var retornoMarcas = from marcas in listaDeMarcas select new { NomeMarca = marcas.Nome };
-            return retornoMarcas;
-        }
 
         // GET: api/Marcas
         public IQueryable<Marcas> GetMarcas()

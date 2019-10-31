@@ -12,34 +12,11 @@ using WebApiBancoExistente.Models;
 
 namespace WebApiBancoExistente.Controllers
 {
-    public class CarrosController : ApiController
+    public partial class CarrosController : ApiController
     {
         private DataBaseContext db = new DataBaseContext();
 
-        [HttpGet]
-        [Route("api/Carros/CustomQuery")]
-        public object CustomCarrosQuery()
-        {
-            var listaDeCarros = db.Carros.ToList();
-            var retornoCarros = from carros in listaDeCarros select new { NomeCarro = carros.Modelo, CarroId = carros.Id };
-            return retornoCarros;
-        }
-
-        [HttpGet]
-        [Route("api/Carros/CarrosComMarcas")]
-        public object CustomCarrosOnMarcas()
-        {
-            var listCarros = db.Carros.ToList();
-            var listMarcas = db.Marcas.ToList();
-
-            var conteudoRetorno = from mar in listMarcas join car in listCarros on mar.Id equals car.Marca select new {
-                CarrosId = car.Id,
-                CarroNome = car.Modelo,
-                MarcaId = mar.Id,
-                MarcaNome = mar.Nome
-            };
-            return conteudoRetorno;
-        }
+       
 
         // GET: api/Carros
         public IQueryable<Carros> GetCarros()
