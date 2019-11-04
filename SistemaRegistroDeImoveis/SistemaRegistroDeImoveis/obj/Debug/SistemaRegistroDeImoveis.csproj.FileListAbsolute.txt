@@ -88,4 +88,3 @@ C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaRegistroDeImov
 C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaRegistroDeImoveis\SistemaRegistroDeImoveis\obj\Debug\SistemaRegistroDeImoveis.Migrations.AddControleProprietario.resources
 C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaRegistroDeImoveis\SistemaRegistroDeImoveis\obj\Debug\SistemaRegistroDeImoveis.Migrations.AddTableImovel.resources
 C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaRegistroDeImoveis\SistemaRegistroDeImoveis\obj\Debug\SistemaRegistroDeImoveis.Migrations.herdandoControle.resources
-C:\Users\900070\source\repos\carlosTavares1\Treinamento-C-\SistemaRegistroDeImoveis\SistemaRegistroDeImoveis\obj\Debug\SistemaRegistroDeImoveis.csprojAssemblyReference.cache
